@@ -1,6 +1,7 @@
 data/raw/*.csv
 data/processed/*.xlsx
 data/processed/*.csv
+data/processed/*.xlsm
 dashboard/*.pbix
 __pycache__/
 *.pyc
